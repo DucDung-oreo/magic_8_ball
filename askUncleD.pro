@@ -28,6 +28,7 @@ SOURCES += \
         mainwindow.cpp
 
 HEADERS += \
+        list.h \
         mainwindow.h
 
 FORMS += \

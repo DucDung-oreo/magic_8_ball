@@ -29,9 +29,7 @@ private slots:
 private:
     Ui::MainWindow *ui;
     QString question;
-    std::string answers[19];
-    std::string comments[10];
-    std::string qoutes[16];
+
     int idxAns;
     int idxCom;
     int idxQuo;
