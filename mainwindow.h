@@ -6,6 +6,7 @@
 #include <iostream>
 #include <QTime>
 #include <QTimer>
+#include <QRandomGenerator>
 //#include <QRandomGenerator>
 
 namespace Ui {
@@ -32,7 +33,6 @@ private:
 
     int idxAns;
     int idxCom;
-    int idxQuo;
 };
 
 void usleep(int ms);

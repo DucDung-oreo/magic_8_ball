@@ -77,24 +77,4 @@ std::vector<std::string> commentsListEN =
     "Well..."
 };
 
-std::vector<std::string> quotesList =
-{
-    "Chị không muốn nhiều chuyện nhưng mà chuyện nhiều nên chị phải nói.",
-    "Chúng ta ai cũng bất ngờ, ngỡ ngàng, ngơ ngác và bật ngửa",
-    "Dĩ vãng dơ dáy dễ gì giấu giếm.",
-    "Công ty trách nhiệm hữu hạn một mình tao.",
-    "Nó đụng thì mình phải chạm, nó cảm thì mình phải xúc, nó muốn sụp thì mình phải cho đổ luôn!.",
-    "Đừng thấy hoa nở mà ngỡ xuân về.",
-    "Tôi không thở bằng lá phổi của người khác, không sống dựa vào đàn ông.",
-    "Ngu nhất mà tưởng mình khôn nhì.",
-    "Người trong cuộc mới hiểu người trong kẹt.",
-    "Thần điêu đại bịp.",
-    "Những nơi không an toàn là những nơi mà nguy hiểm nhất.",
-    "Im lặng là vàng mà nói ra mới là kim cương",
-    "Đánh tráo khái niệm, tạm ứng niềm tin.",
-    "Khi hết phước thì cuộc đời đổ như Domino.",
-    "Ngay cả việc làm bản thân bớt đẹp tôi cũng không làm được",
-    "Phải biết chân lý ở đâu, đừng để bị đưa vào chân tường"
-};
-
 #endif // LIST_H
